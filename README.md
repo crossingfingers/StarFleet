@@ -1,1 +1,1 @@
-Final java project- using advanced inhheritance
+Final java project- using advanced inheritance rules
